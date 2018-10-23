@@ -1,0 +1,27 @@
+.card{
+    margin: 20px;
+}
+.post{
+    flex: 1;
+}
+.recient-docs{
+    background-color: #ececec;
+
+    flex: 1;
+}
+
+.jumbotron{
+    background-image:url(https://www.nashtechglobal.com/wp-content/uploads/2018/06/CIO-web-banner.jpg); 
+    background-position: 0% 25%; 
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+
+.home{
+    display: flex;
+}
+
+a.custom-card,
+a.custom-card:hover {
+  color: inherit;
+}
